@@ -1,0 +1,3 @@
+Set-ExecutionPolicy Unrestricted -Scope Process  
+NN/Scripts/Activate.ps1 
+python -m pip install matplotlib
